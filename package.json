@@ -1,0 +1,14 @@
+{
+  "name": "Nexter",
+  "version": "1.0.0",
+  "description": "Landing page for nexter",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Ms opeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
